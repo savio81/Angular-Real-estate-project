@@ -1,17 +1,4 @@
-{
-  "name": "real-estate-management-backend",
-  "version": "1.0.0",
-  "description": "The server side for real-estate-management app",
-  "main": "index.js",
-  "type": "module",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node src/index.js",
-    "dev": "nodemon src/index.js",
-    "db:seeder": "node src/database-seeder/index.js"
-  }, 
-  
-  
+MJAOR ADD IS OF KEYWODS
   
   "keywords": [
     "fastify",
@@ -33,19 +20,12 @@
     "uuid": "^8.3.2"
   },
   
+  AT the FRONT
   
   
   
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
+
   "devDependencies": {
     "@types/busboy": "^0.3.1",
     "nodemon": "^2.0.12"
